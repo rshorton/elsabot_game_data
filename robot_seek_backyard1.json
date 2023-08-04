@@ -1,0 +1,5 @@
+{"search_poses":[
+{"x":  1.0, "y":  6.6, "yaw": 270.0, "spin": true, "scan": false},
+{"x":  3.0, "y":  3.0, "yaw": 290.0, "spin": false, "scan": true},
+{"x":  3.0, "y": -2.0, "yaw": 270.0, "spin": true, "scan":  false}
+]}
